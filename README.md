@@ -1,5 +1,5 @@
 <details>
-<summary>🗒 Tarjeta: Composición »</summary>
+<summary>🗒 Responsabilidades »</summary>
 
 | Composición |
 | ---- |
